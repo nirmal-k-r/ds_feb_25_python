@@ -1,0 +1,5 @@
+apple
+milk
+rice
+sugar
+salt
